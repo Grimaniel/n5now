@@ -1,0 +1,309 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Proyectos_2024\\ChallengeTL\\WebApp_Challenge\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7681BF69-4CFC-426F-AD1B-E5B20406AAB6}|WebApp_Challenge\\WebApp_Challenge.csproj|e:\\proyectos_2024\\challengetl\\webapp_challenge\\webapp_challenge\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{7681BF69-4CFC-426F-AD1B-E5B20406AAB6}|WebApp_Challenge\\WebApp_Challenge.csproj|solutionrelative:webapp_challenge\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7681BF69-4CFC-426F-AD1B-E5B20406AAB6}|WebApp_Challenge\\WebApp_Challenge.csproj|e:\\proyectos_2024\\challengetl\\webapp_challenge\\webapp_challenge\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{7681BF69-4CFC-426F-AD1B-E5B20406AAB6}|WebApp_Challenge\\WebApp_Challenge.csproj|solutionrelative:webapp_challenge\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7681BF69-4CFC-426F-AD1B-E5B20406AAB6}|WebApp_Challenge\\WebApp_Challenge.csproj|e:\\proyectos_2024\\challengetl\\webapp_challenge\\webapp_challenge\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7681BF69-4CFC-426F-AD1B-E5B20406AAB6}|WebApp_Challenge\\WebApp_Challenge.csproj|solutionrelative:webapp_challenge\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7681BF69-4CFC-426F-AD1B-E5B20406AAB6}|WebApp_Challenge\\WebApp_Challenge.csproj|e:\\proyectos_2024\\challengetl\\webapp_challenge\\webapp_challenge\\controllers\\permissionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7681BF69-4CFC-426F-AD1B-E5B20406AAB6}|WebApp_Challenge\\WebApp_Challenge.csproj|solutionrelative:webapp_challenge\\controllers\\permissionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7681BF69-4CFC-426F-AD1B-E5B20406AAB6}|WebApp_Challenge\\WebApp_Challenge.csproj|e:\\proyectos_2024\\challengetl\\webapp_challenge\\webapp_challenge\\services\\kafkaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7681BF69-4CFC-426F-AD1B-E5B20406AAB6}|WebApp_Challenge\\WebApp_Challenge.csproj|solutionrelative:webapp_challenge\\services\\kafkaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7681BF69-4CFC-426F-AD1B-E5B20406AAB6}|WebApp_Challenge\\WebApp_Challenge.csproj|e:\\proyectos_2024\\challengetl\\webapp_challenge\\webapp_challenge\\webapp_challenge.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7681BF69-4CFC-426F-AD1B-E5B20406AAB6}|WebApp_Challenge\\WebApp_Challenge.csproj|solutionrelative:webapp_challenge\\webapp_challenge.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7681BF69-4CFC-426F-AD1B-E5B20406AAB6}|WebApp_Challenge\\WebApp_Challenge.csproj|e:\\proyectos_2024\\challengetl\\webapp_challenge\\webapp_challenge\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7681BF69-4CFC-426F-AD1B-E5B20406AAB6}|WebApp_Challenge\\WebApp_Challenge.csproj|solutionrelative:webapp_challenge\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7681BF69-4CFC-426F-AD1B-E5B20406AAB6}|WebApp_Challenge\\WebApp_Challenge.csproj|e:\\proyectos_2024\\challengetl\\webapp_challenge\\webapp_challenge\\models\\permission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7681BF69-4CFC-426F-AD1B-E5B20406AAB6}|WebApp_Challenge\\WebApp_Challenge.csproj|solutionrelative:webapp_challenge\\models\\permission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7681BF69-4CFC-426F-AD1B-E5B20406AAB6}|WebApp_Challenge\\WebApp_Challenge.csproj|e:\\proyectos_2024\\challengetl\\webapp_challenge\\webapp_challenge\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7681BF69-4CFC-426F-AD1B-E5B20406AAB6}|WebApp_Challenge\\WebApp_Challenge.csproj|solutionrelative:webapp_challenge\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7681BF69-4CFC-426F-AD1B-E5B20406AAB6}|WebApp_Challenge\\WebApp_Challenge.csproj|e:\\proyectos_2024\\challengetl\\webapp_challenge\\webapp_challenge\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7681BF69-4CFC-426F-AD1B-E5B20406AAB6}|WebApp_Challenge\\WebApp_Challenge.csproj|solutionrelative:webapp_challenge\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7681BF69-4CFC-426F-AD1B-E5B20406AAB6}|WebApp_Challenge\\WebApp_Challenge.csproj|e:\\proyectos_2024\\challengetl\\webapp_challenge\\webapp_challenge\\controllers\\healthcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7681BF69-4CFC-426F-AD1B-E5B20406AAB6}|WebApp_Challenge\\WebApp_Challenge.csproj|solutionrelative:webapp_challenge\\controllers\\healthcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7681BF69-4CFC-426F-AD1B-E5B20406AAB6}|WebApp_Challenge\\WebApp_Challenge.csproj|e:\\proyectos_2024\\challengetl\\webapp_challenge\\webapp_challenge\\elasticsearch\\permissionelasticsearchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7681BF69-4CFC-426F-AD1B-E5B20406AAB6}|WebApp_Challenge\\WebApp_Challenge.csproj|solutionrelative:webapp_challenge\\elasticsearch\\permissionelasticsearchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7681BF69-4CFC-426F-AD1B-E5B20406AAB6}|WebApp_Challenge\\WebApp_Challenge.csproj|e:\\proyectos_2024\\challengetl\\webapp_challenge\\webapp_challenge\\elasticsearch\\elasticsearchconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7681BF69-4CFC-426F-AD1B-E5B20406AAB6}|WebApp_Challenge\\WebApp_Challenge.csproj|solutionrelative:webapp_challenge\\elasticsearch\\elasticsearchconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7681BF69-4CFC-426F-AD1B-E5B20406AAB6}|WebApp_Challenge\\WebApp_Challenge.csproj|e:\\proyectos_2024\\challengetl\\webapp_challenge\\webapp_challenge\\migrations\\20240828134859_primermigra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7681BF69-4CFC-426F-AD1B-E5B20406AAB6}|WebApp_Challenge\\WebApp_Challenge.csproj|solutionrelative:webapp_challenge\\migrations\\20240828134859_primermigra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7681BF69-4CFC-426F-AD1B-E5B20406AAB6}|WebApp_Challenge\\WebApp_Challenge.csproj|e:\\proyectos_2024\\challengetl\\webapp_challenge\\webapp_challenge\\dtos\\permissiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7681BF69-4CFC-426F-AD1B-E5B20406AAB6}|WebApp_Challenge\\WebApp_Challenge.csproj|solutionrelative:webapp_challenge\\dtos\\permissiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7681BF69-4CFC-426F-AD1B-E5B20406AAB6}|WebApp_Challenge\\WebApp_Challenge.csproj|e:\\proyectos_2024\\challengetl\\webapp_challenge\\webapp_challenge\\models\\permissiontype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7681BF69-4CFC-426F-AD1B-E5B20406AAB6}|WebApp_Challenge\\WebApp_Challenge.csproj|solutionrelative:webapp_challenge\\models\\permissiontype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7681BF69-4CFC-426F-AD1B-E5B20406AAB6}|WebApp_Challenge\\WebApp_Challenge.csproj|e:\\proyectos_2024\\challengetl\\webapp_challenge\\webapp_challenge\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7681BF69-4CFC-426F-AD1B-E5B20406AAB6}|WebApp_Challenge\\WebApp_Challenge.csproj|solutionrelative:webapp_challenge\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "KafkaService.cs",
+              "DocumentMoniker": "E:\\Proyectos_2024\\ChallengeTL\\WebApp_Challenge\\WebApp_Challenge\\Services\\KafkaService.cs",
+              "RelativeDocumentMoniker": "WebApp_Challenge\\Services\\KafkaService.cs",
+              "ToolTip": "E:\\Proyectos_2024\\ChallengeTL\\WebApp_Challenge\\WebApp_Challenge\\Services\\KafkaService.cs",
+              "RelativeToolTip": "WebApp_Challenge\\Services\\KafkaService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T11:41:32.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "E:\\Proyectos_2024\\ChallengeTL\\WebApp_Challenge\\WebApp_Challenge\\Dockerfile",
+              "RelativeDocumentMoniker": "WebApp_Challenge\\Dockerfile",
+              "ToolTip": "E:\\Proyectos_2024\\ChallengeTL\\WebApp_Challenge\\WebApp_Challenge\\Dockerfile",
+              "RelativeToolTip": "WebApp_Challenge\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-08-28T18:26:00.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Proyectos_2024\\ChallengeTL\\WebApp_Challenge\\WebApp_Challenge\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApp_Challenge\\appsettings.json",
+              "ToolTip": "E:\\Proyectos_2024\\ChallengeTL\\WebApp_Challenge\\WebApp_Challenge\\appsettings.json",
+              "RelativeToolTip": "WebApp_Challenge\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-27T23:04:24.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Permission.cs",
+              "DocumentMoniker": "E:\\Proyectos_2024\\ChallengeTL\\WebApp_Challenge\\WebApp_Challenge\\Models\\Permission.cs",
+              "RelativeDocumentMoniker": "WebApp_Challenge\\Models\\Permission.cs",
+              "ToolTip": "E:\\Proyectos_2024\\ChallengeTL\\WebApp_Challenge\\WebApp_Challenge\\Models\\Permission.cs",
+              "RelativeToolTip": "WebApp_Challenge\\Models\\Permission.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T22:56:23.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Proyectos_2024\\ChallengeTL\\WebApp_Challenge\\WebApp_Challenge\\Program.cs",
+              "RelativeDocumentMoniker": "WebApp_Challenge\\Program.cs",
+              "ToolTip": "E:\\Proyectos_2024\\ChallengeTL\\WebApp_Challenge\\WebApp_Challenge\\Program.cs",
+              "RelativeToolTip": "WebApp_Challenge\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAC8AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T01:04:27.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PermissionsController.cs",
+              "DocumentMoniker": "E:\\Proyectos_2024\\ChallengeTL\\WebApp_Challenge\\WebApp_Challenge\\Controllers\\PermissionsController.cs",
+              "RelativeDocumentMoniker": "WebApp_Challenge\\Controllers\\PermissionsController.cs",
+              "ToolTip": "E:\\Proyectos_2024\\ChallengeTL\\WebApp_Challenge\\WebApp_Challenge\\Controllers\\PermissionsController.cs",
+              "RelativeToolTip": "WebApp_Challenge\\Controllers\\PermissionsController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAwwEsAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T05:14:19.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PermissionDto.cs",
+              "DocumentMoniker": "E:\\Proyectos_2024\\ChallengeTL\\WebApp_Challenge\\WebApp_Challenge\\DTOs\\PermissionDto.cs",
+              "RelativeDocumentMoniker": "WebApp_Challenge\\DTOs\\PermissionDto.cs",
+              "ToolTip": "E:\\Proyectos_2024\\ChallengeTL\\WebApp_Challenge\\WebApp_Challenge\\DTOs\\PermissionDto.cs",
+              "RelativeToolTip": "WebApp_Challenge\\DTOs\\PermissionDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T13:45:00.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "E:\\Proyectos_2024\\ChallengeTL\\WebApp_Challenge\\WebApp_Challenge\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "WebApp_Challenge\\Models\\Employee.cs",
+              "ToolTip": "E:\\Proyectos_2024\\ChallengeTL\\WebApp_Challenge\\WebApp_Challenge\\Models\\Employee.cs",
+              "RelativeToolTip": "WebApp_Challenge\\Models\\Employee.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T22:20:12.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "E:\\Proyectos_2024\\ChallengeTL\\WebApp_Challenge\\WebApp_Challenge\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "WebApp_Challenge\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "E:\\Proyectos_2024\\ChallengeTL\\WebApp_Challenge\\WebApp_Challenge\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "WebApp_Challenge\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAIwB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T22:59:25.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WebApp_Challenge.csproj",
+              "DocumentMoniker": "E:\\Proyectos_2024\\ChallengeTL\\WebApp_Challenge\\WebApp_Challenge\\WebApp_Challenge.csproj",
+              "RelativeDocumentMoniker": "WebApp_Challenge\\WebApp_Challenge.csproj",
+              "ToolTip": "E:\\Proyectos_2024\\ChallengeTL\\WebApp_Challenge\\WebApp_Challenge\\WebApp_Challenge.csproj",
+              "RelativeToolTip": "WebApp_Challenge\\WebApp_Challenge.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-27T22:38:35.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "E:\\Proyectos_2024\\ChallengeTL\\WebApp_Challenge\\WebApp_Challenge\\docker-compose.yml",
+              "RelativeDocumentMoniker": "WebApp_Challenge\\docker-compose.yml",
+              "ToolTip": "E:\\Proyectos_2024\\ChallengeTL\\WebApp_Challenge\\WebApp_Challenge\\docker-compose.yml",
+              "RelativeToolTip": "WebApp_Challenge\\docker-compose.yml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2024-08-28T18:29:00.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ElasticsearchConfig.cs",
+              "DocumentMoniker": "E:\\Proyectos_2024\\ChallengeTL\\WebApp_Challenge\\WebApp_Challenge\\Elasticsearch\\ElasticsearchConfig.cs",
+              "RelativeDocumentMoniker": "WebApp_Challenge\\Elasticsearch\\ElasticsearchConfig.cs",
+              "ToolTip": "E:\\Proyectos_2024\\ChallengeTL\\WebApp_Challenge\\WebApp_Challenge\\Elasticsearch\\ElasticsearchConfig.cs",
+              "RelativeToolTip": "WebApp_Challenge\\Elasticsearch\\ElasticsearchConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T17:02:49.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PermissionElasticsearchService.cs",
+              "DocumentMoniker": "E:\\Proyectos_2024\\ChallengeTL\\WebApp_Challenge\\WebApp_Challenge\\Elasticsearch\\PermissionElasticsearchService.cs",
+              "RelativeDocumentMoniker": "WebApp_Challenge\\Elasticsearch\\PermissionElasticsearchService.cs",
+              "ToolTip": "E:\\Proyectos_2024\\ChallengeTL\\WebApp_Challenge\\WebApp_Challenge\\Elasticsearch\\PermissionElasticsearchService.cs",
+              "RelativeToolTip": "WebApp_Challenge\\Elasticsearch\\PermissionElasticsearchService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAIwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T17:07:24.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HealthController.cs",
+              "DocumentMoniker": "E:\\Proyectos_2024\\ChallengeTL\\WebApp_Challenge\\WebApp_Challenge\\Controllers\\HealthController.cs",
+              "RelativeDocumentMoniker": "WebApp_Challenge\\Controllers\\HealthController.cs",
+              "ToolTip": "E:\\Proyectos_2024\\ChallengeTL\\WebApp_Challenge\\WebApp_Challenge\\Controllers\\HealthController.cs",
+              "RelativeToolTip": "WebApp_Challenge\\Controllers\\HealthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T22:51:12.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20240828134859_PrimerMigra.cs",
+              "DocumentMoniker": "E:\\Proyectos_2024\\ChallengeTL\\WebApp_Challenge\\WebApp_Challenge\\Migrations\\20240828134859_PrimerMigra.cs",
+              "RelativeDocumentMoniker": "WebApp_Challenge\\Migrations\\20240828134859_PrimerMigra.cs",
+              "ToolTip": "E:\\Proyectos_2024\\ChallengeTL\\WebApp_Challenge\\WebApp_Challenge\\Migrations\\20240828134859_PrimerMigra.cs",
+              "RelativeToolTip": "WebApp_Challenge\\Migrations\\20240828134859_PrimerMigra.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T13:49:00.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PermissionType.cs",
+              "DocumentMoniker": "E:\\Proyectos_2024\\ChallengeTL\\WebApp_Challenge\\WebApp_Challenge\\Models\\PermissionType.cs",
+              "RelativeDocumentMoniker": "WebApp_Challenge\\Models\\PermissionType.cs",
+              "ToolTip": "E:\\Proyectos_2024\\ChallengeTL\\WebApp_Challenge\\WebApp_Challenge\\Models\\PermissionType.cs",
+              "RelativeToolTip": "WebApp_Challenge\\Models\\PermissionType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T22:57:15.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "E:\\Proyectos_2024\\ChallengeTL\\WebApp_Challenge\\WebApp_Challenge\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "WebApp_Challenge\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "E:\\Proyectos_2024\\ChallengeTL\\WebApp_Challenge\\WebApp_Challenge\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "WebApp_Challenge\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T01:21:46.754Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
