@@ -1,1 +1,55 @@
-apiVersion: apps/v1kind: Deploymentmetadata:  name: webapp_challenge-deploymentspec:  replicas: 2  selector:    matchLabels:      app: webapp_challenge  template:    metadata:      labels:        app: webapp_challenge    spec:      containers:        - name: webapp_challenge          image: webapp_challenge:latest          ports:            - containerPort: 80---apiVersion: v1kind: Servicemetadata:  name: webapp_challenge-servicespec:  selector:    app: webapp_challenge  ports:    - protocol: TCP      port: 80      targetPort: 80  type: LoadBalancer
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: api-n5-deployment
+  labels:
+    app: api-n5
+spec:
+  replicas: 3  # Número de réplicas del contenedor
+  selector:
+    matchLabels:
+      app: api-n5
+  template:
+    metadata:
+      labels:
+        app: api-n5
+    spec:
+      containers:
+      - name: api-n5
+        image: api-n5-image:latest  # Imagen del contenedor
+        ports:
+        - containerPort: 80
+        env:
+        - name: ASPNETCORE_ENVIRONMENT
+          value: "Production"
+        - name: ConnectionStrings__DefaultConnection
+          value: "Server=GRIMANIEL_HP\\MSSQLSERVER01;Database=N5Database;Integrated Security=True;TrustServerCertificate=True;"
+      - name: kafka
+        image: wurstmeister/kafka:2.13-2.8.0
+        ports:
+        - containerPort: 9092
+      - name: elasticsearch
+        image: docker.elastic.co/elasticsearch/elasticsearch:7.10.1
+        ports:
+        - containerPort: 9200
+        volumeMounts:
+        - name: esdata
+          mountPath: /usr/share/elasticsearch/data
+      volumes:
+      - name: esdata
+        emptyDir: {}
+
+---
+
+apiVersion: v1
+kind: Service
+metadata:
+  name: api-n5-service
+spec:
+  selector:
+    app: api-n5
+  ports:
+    - protocol: TCP
+      port: 80
+      targetPort: 80
+  type: LoadBalancer
